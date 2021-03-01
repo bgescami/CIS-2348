@@ -1,0 +1,4 @@
+What this coding problem wanted us to do was very different than the last one. It wanted us to open a .txt file in our code, read the data that was in the code as a string, 
+and then create a list of what was found in the file. we then run the file through a loop which will then pick and choose the dates that are formmatted the way we want them
+formatted. It then prints these dates that fit the wanted criteria into a new parsedData.txt file. There is never anything that the IDE prints to the user. If you follow the directory
+you will now see a new parsedDate.txt
