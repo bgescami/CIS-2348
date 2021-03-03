@@ -25,7 +25,6 @@
 # Cat 1
 # Note: There is a newline at the end of the output, and input1.csv is available to download.
 
-import csv
 
 import csv
 
